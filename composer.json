@@ -1,5 +1,5 @@
 {
-  "name": "lonesta/socialite-zerion",
+  "name": "zeriontech/socialite-zerion",
   "description": "Zerion OAuth2 Provider for Laravel Socialite",
   "license": "MIT",
   "authors": [
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "lonesta\\SocialiteProviders\\Zerion\\": "src/"
+      "zeriontech\\SocialiteProviders\\Zerion\\": "src/"
     }
   }
 }
