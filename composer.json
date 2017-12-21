@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "zeriontech\\SocialiteProviders\\Zerion\\": "src/"
+      "ZerionTech\\SocialiteProviders\\Zerion\\": "src/"
     }
   }
 }
