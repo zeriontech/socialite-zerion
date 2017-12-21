@@ -1,6 +1,6 @@
 <?php
 
-namespace zeriontech\SocialiteProviders\Zerion;
+namespace ZerionTech\SocialiteProviders\Zerion;
 
 use Laravel\Socialite\Two\ProviderInterface;
 use SocialiteProviders\Manager\OAuth2\AbstractProvider;

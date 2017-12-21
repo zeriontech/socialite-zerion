@@ -1,6 +1,6 @@
 <?php
 
-namespace zeriontech\SocialiteProviders\Zerion;
+namespace ZerionTech\SocialiteProviders\Zerion;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
 
