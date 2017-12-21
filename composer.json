@@ -1,5 +1,5 @@
 {
-  "name": "ZerionTech/socialite-zerion",
+  "name": "zeriontech/socialite-zerion",
   "description": "Zerion OAuth2 Provider for Laravel Socialite",
   "license": "MIT",
   "authors": [
