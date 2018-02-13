@@ -13,9 +13,9 @@ class Provider extends AbstractProvider implements ProviderInterface
      */
     const IDENTIFIER = 'ZERION';
 
-    const AUTH_URL = 'https://apis.zerion.io/oauth/authorize/';
+    const AUTH_URL = 'https://sso.zerion.io/oauth/authorize/';
 
-    const TOKEN_URL = 'https://apis.zerion.io/oauth/token/';
+    const TOKEN_URL = 'https://sso.zerion.io/oauth/token/';
 
     const USER_DATA_URL = 'https://apis.zerion.io/v1/project/access/';
 
